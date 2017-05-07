@@ -1,5 +1,5 @@
 #pragma once
-#include "NFA.h"
+#include "NFA.h" 
 class DFA
 {
 private:

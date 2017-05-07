@@ -34,7 +34,3 @@ public:
 	NFA NFA::OpOR(NFA n1, NFA n2);
 	NFA NFA::OpStar(NFA n);
 };
-
-
-
-
